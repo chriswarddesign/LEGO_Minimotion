@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: a1ee1cb98a01a4f619f9e430235fb2ec
+timeCreated: 1461103907
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: USETHISONE_Body
+    100006: USETHISONE_LeftArm
+    100008: USETHISONE_LeftHand
+    100010: USETHISONE_LeftLeg
+    100012: USETHISONE_mug
+    100014: USETHISONE_Pants
+    100016: USETHISONE_RightArm
+    100018: USETHISONE_RightHand
+    100020: USETHISONE_RightLeg
+    400000: //RootNode
+    400002: Head
+    400004: USETHISONE_Body
+    400006: USETHISONE_LeftArm
+    400008: USETHISONE_LeftHand
+    400010: USETHISONE_LeftLeg
+    400012: USETHISONE_mug
+    400014: USETHISONE_Pants
+    400016: USETHISONE_RightArm
+    400018: USETHISONE_RightHand
+    400020: USETHISONE_RightLeg
+    2300000: Head
+    2300002: USETHISONE_Body
+    2300004: USETHISONE_LeftArm
+    2300006: USETHISONE_LeftHand
+    2300008: USETHISONE_LeftLeg
+    2300010: USETHISONE_mug
+    2300012: USETHISONE_Pants
+    2300014: USETHISONE_RightArm
+    2300016: USETHISONE_RightHand
+    2300018: USETHISONE_RightLeg
+    3300000: Head
+    3300002: USETHISONE_Body
+    3300004: USETHISONE_LeftArm
+    3300006: USETHISONE_LeftHand
+    3300008: USETHISONE_LeftLeg
+    3300010: USETHISONE_mug
+    3300012: USETHISONE_Pants
+    3300014: USETHISONE_RightArm
+    3300016: USETHISONE_RightHand
+    3300018: USETHISONE_RightLeg
+    4300000: USETHISONE_Body
+    4300002: Head
+    4300004: USETHISONE_LeftArm
+    4300006: USETHISONE_LeftHand
+    4300008: USETHISONE_mug
+    4300010: USETHISONE_RightArm
+    4300012: USETHISONE_RightHand
+    4300014: USETHISONE_Pants
+    4300016: USETHISONE_LeftLeg
+    4300018: USETHISONE_RightLeg
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: USETHISONE_Body
+        weight: 1
+      - path: USETHISONE_Body/Head
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_LeftArm
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_LeftArm/USETHISONE_LeftHand
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_LeftArm/USETHISONE_LeftHand/USETHISONE_mug
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_Pants
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_Pants/USETHISONE_LeftLeg
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_Pants/USETHISONE_RightLeg
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_RightArm
+        weight: 1
+      - path: USETHISONE_Body/USETHISONE_RightArm/USETHISONE_RightHand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
